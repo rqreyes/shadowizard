@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rqreyes/shadowizard.git"
+    "url": "git+https://github.com/rqreyes/shadowizzy.git"
   },
   "keywords": [
     "shadow"
@@ -16,7 +16,7 @@
   "author": "Randy Reyes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rqreyes/shadowizard/issues"
+    "url": "https://github.com/rqreyes/shadowizzy/issues"
   },
-  "homepage": "https://github.com/rqreyes/shadowizard#readme"
+  "homepage": "https://github.com/rqreyes/shadowizzy#readme"
 }
