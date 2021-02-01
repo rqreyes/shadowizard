@@ -4,14 +4,14 @@ Get perfect shadows every time for the non-designer
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i shadowizzy --save`
 
 Then...
 
 ```
-import { shadowizard } from 'shadowizard';
+import { shadowizzy } from 'shadowizzy';
 
-shadowizard({
+shadowizzy({
   shadow_type: 'soft',
   padding: false
 })
@@ -19,7 +19,7 @@ shadowizard({
 
 ## Options
 
-Shadowizard supports 2 optinos, both of whiich are optional:
+Shadowizzy supports 2 options, both of whiich are optional:
 
 - _shadow_type_ - _hard / soft_ (Defaults to soft)
 - _padding_ - _boolean_ (Defaults to false)

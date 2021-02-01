@@ -1,0 +1,22 @@
+{
+  "name": "shadowizzy",
+  "version": "1.0.0",
+  "description": "Get perfect shadows every time for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rqreyes/shadowizard.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "Randy Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rqreyes/shadowizard/issues"
+  },
+  "homepage": "https://github.com/rqreyes/shadowizard#readme"
+}

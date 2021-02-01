@@ -1,5 +1,5 @@
-const shadowizard = (options) => {
-  let images = document.querySelectorAll('.shadowizard');
+const shadowizzy = (options) => {
+  let images = document.querySelectorAll('.shadowizzy');
 
   if (options.shadow_type === 'hard') options.shadow_type = '0px';
   else options.shadow_type = '15px';
@@ -13,4 +13,4 @@ const shadowizard = (options) => {
   });
 };
 
-module.exports.shadowizard = shadowizard;
+module.exports.shadowizzy = shadowizzy;
